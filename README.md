@@ -1,16 +1,14 @@
-## Hi there 👋
+## BEM-VENDO AO MEu PERFIL!!⚗️
 
-<!--
-**B1aGav4/B1aGav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É BEATRIZ GAVA
+ESTOU ESTUDANDO NO ALURA 
+ESTOU ME DESENVOLVENDO EM JAVASCRIPT
+ULTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
 
-Here are some ideas to get you started:
+## VOCE PODE ENTRAR EM CONTATO COMIGO!♟️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001109513422sp@al.educacao.sp.gov.br
+
+@B1aGav4
+
+![](https://media1.tenor.com/m/6PBR7QNWr0QAAAAC/stim-im-ready.gif)
